@@ -1,1 +1,1 @@
-# Tree-Structure-Algorothm
+# Tree-Structure-Algorithm
