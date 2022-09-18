@@ -1,6 +1,8 @@
 # Tree-Structure-Algorithm
 
-Tree Structure Algorithm (TSA) for finite horizon optimal control problems with Hamilton-Jacobi-Bellman (HJB) equation.
+Tree Structure Algorithm (TSA) for finite horizon optimal control problems with Hamilton-Jacobi-Bellman (HJB) equation. 
+Based on the paper: A. Alla, M. Falcone, L. Saluzzi, An efficient DP algorithm on a tree-structure for finite horizon optimal control problems, SIAM J. Sci. Comput., 41 (4), A2384–A2406 , 2019.
+(Thanks to Xueying Wang for the help)
 
 ## Contents
 ### Numerical test scripts
